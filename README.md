@@ -3,7 +3,8 @@
 # Personal website
 **If you have a lot of information to display on your site, why don't you use my project**
 
-![Screenshot_2024_02_05-1](https://github.com/elnaz-eshtiaghi/clock/assets/146030206/f8c9f52f-3c9a-4544-970d-a7f140993c4c)
+
+![Screenshot_2024_02_05-1](https://github.com/elnaz-eshtiaghi/clock/assets/146030206/544dfd46-619b-4dc6-bf89-6a974f072137)
 
 - [Demo Project]( https://elnaz-eshtiaghi.github.io/clock/)
 
